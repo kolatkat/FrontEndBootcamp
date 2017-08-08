@@ -1,0 +1,38 @@
+#container
+{
+	margin-left:auto;
+	margin-right:auto;
+	background-color:white;
+	width:878px;
+	padding:10px;
+	border-left:1px solid #ccc;
+	border-right:1px solid #ccc;
+}
+#logo
+{
+	width: 100%;
+	height: 150px;
+	background-color: #485b3b;
+	font-size: 36px;
+	color:#ffffff;
+	text-align:center;
+}	
+#btn
+{
+	float: left;
+	height: 50px;
+	margin-left: 30px;
+	margin-top:30px;
+	
+}
+#showNumbers
+{
+	display: inline-block;
+    width: 180px;
+    height: 50px;
+    padding: 0 20px;
+    margin-left: 30px;
+	margin-top:30px;
+    float: left;
+	background-color:green;
+}
